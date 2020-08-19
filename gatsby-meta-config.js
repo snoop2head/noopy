@@ -3,12 +3,13 @@ module.exports = {
   description: `Blog posted about ...`,
   author: `snoop2head`,
   introduction: `📝 Learn enough to build an idea`,
-  siteUrl: `https://noopy.dev/`, // Your blog site url
+  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `snoop2head`, // Your GitHub account
     medium: '',
-    facebook: '', // Your Facebook account
+    facebook: '',
+    facebook: ``, // Your Facebook account
     linkedin: `young-jin-ahn-b28616117`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
