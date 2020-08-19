@@ -1,4 +1,4 @@
-# noopy.dev
+# [noopy.dev](https://noopy.dev/)
 
 Development log for snoop2head.
 
