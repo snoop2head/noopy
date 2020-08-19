@@ -11,7 +11,7 @@ draft: false
 
 [Google Colab으로 코드 돌려보기](https://colab.research.google.com/drive/1DfOnHOeFIOy4uvoWABL-rucPor9wOyJJ?usp=sharing)
 
-![image-20200819201822834](./imgs/image-20200819201822834.png)
+![image-20200819201822834](./images/image-20200819201822834.png)
 
 * 오늘(08월 19일) 최고치를 경신함. 151명이 확진 판정을 받음.
 * 오늘 기준 서울에만 2360명의 확진자가 있음을 알 수 있음.
