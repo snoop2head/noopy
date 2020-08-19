@@ -7,7 +7,7 @@ draft: false
 
 ---
 
-# conda는 이제 그만 쓸래요 - pyenv & poetry
+
 
 ## 개발환경
 

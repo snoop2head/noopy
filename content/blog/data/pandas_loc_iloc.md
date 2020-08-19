@@ -1,5 +1,5 @@
 ---
-title: 'Acessing Pandas Dataframe'
+title: 'Accessing Pandas Dataframe'
 date: 2020-07-02 16:21:13
 category: 'data'
 draft: false
