@@ -2,7 +2,7 @@ module.exports = {
   title: `noopy`,
   description: `Blog posted about ...`,
   author: `snoop2head`,
-  introduction: `📝🐍🦀`,
+  introduction: `📝Learn enough to build an idea`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -13,7 +13,7 @@ module.exports = {
     linkedin: `young-jin-ahn-b28616117`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
-  keywords: [`blog`, `data`, `sc`],
+  keywords: [`blog`, `python`, `data`, `django`, `developer`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'snoop2head/noopy', // Your repository for archive comment
