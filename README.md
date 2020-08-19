@@ -22,7 +22,7 @@ npm start
 
 ## Moving Images After Writing
 
-Placing image with Typora editor creates image on the corresponding directory. Use python3 to move the img files into images folder and relocate their paths on the markdown document.
+Placing image with Typora editor creates image on the corresponding directory. Use python3 to 1) move the img files into each categories' images folder and 2) rewrite their paths notated on the markdown document.
 
 ```python
 python3 app.py
