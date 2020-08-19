@@ -1,4 +1,4 @@
-# noopy
+# noopy.dev
 
 Development log for snoop2head.
 

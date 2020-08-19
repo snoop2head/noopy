@@ -38,7 +38,7 @@ Source repo for Docker's Official Documentation.
   * Deployment: Docker, AWS RDS, AWS S3, AWS EBS
   * Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
 
-<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_3_exercise_specific.jpg"><img width="160" alt="image" src="./images/fit_5_category.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
+<!-- <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_3_exercise_specific.jpg"><img width="160" alt="image" src="./images/fit_5_category.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg"> -->
 
 ### [ghoststation.wiki](https://github.com/ghoststation)
 
@@ -50,7 +50,7 @@ Source repo for Docker's Official Documentation.
   * Data Processing: Selenium, Google Speech-to-Text API
   * Deployment: Docker
 
-<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="170" alt="image" src="./images/ghost_1_edit.jpg"><img width="160" alt="image" src="./images/ghost2-queries.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg"><img width="160" alt="image" src="./images/ghost3_login.jpg"><img width="160" alt="image" src="./images/ghost4_personal_page.jpg">
+<!-- <img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="170" alt="image" src="./images/ghost_1_edit.jpg"><img width="160" alt="image" src="./images/ghost2-queries.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg"><img width="160" alt="image" src="./images/ghost3_login.jpg"><img width="160" alt="image" src="./images/ghost4_personal_page.jpg"> -->
 
 ### [Moneypedia](https://github.com/Moneypedia/finance-extension)
 
@@ -75,7 +75,7 @@ Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place fo
   * Collection: Google Vision API, instagram-crawler
   * Wrangling: pandas
 
-### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-life)
+### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-program)
 
 Sentiment Analysis & Clustering Yonsei exchange program universities based on students' reviews text data.
 
