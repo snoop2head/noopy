@@ -1,5 +1,7 @@
 # noopy.dev
 
+[![Portfolio Badge](http://img.shields.io/badge/Portfolio-black?style=flat-square&logo=github&link=https://github.com/snoop2head/portfolio/blob/master/README.md)](https://github.com/snoop2head/portfolio/blob/master/README.md)[![Blog Badge](http://img.shields.io/badge/DevBlog-blue?style=flat-square&logo=gatsby&link=https://noopy.dev/)](https://noopy.dev/)
+
 snoop2head writing about how to build things
 
 ## Guide for Installation
