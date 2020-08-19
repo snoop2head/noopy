@@ -2,7 +2,7 @@ module.exports = {
   title: `noopy`,
   description: `Blog posted about ...`,
   author: `snoop2head`,
-  introduction: `📝Learn enough to build an idea`,
+  introduction: `📝 Learn enough to build an idea`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
