@@ -10,7 +10,7 @@ lang: 'en'
 
 * Name: Young Jin Ahn
 * Email: young_ahn@yonsei.ac.kr
-* Blog: https://noopy.dev/
+* Github: https://github.com/snoop2head
 
 ## Opensource Contribution
 

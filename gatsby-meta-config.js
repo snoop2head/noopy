@@ -2,7 +2,7 @@ module.exports = {
   title: `noopy.dev`,
   description: `Blog posted about ...`,
   author: `snoop2head`,
-  introduction: `📝 Learn enough to build an idea`,
+  introduction: `📝 Learn enough to build an idea. 🛠 Concept it, show it to the world.`,
   siteUrl: `https://noopy.dev/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
