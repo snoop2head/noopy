@@ -1,5 +1,5 @@
 module.exports = {
-  title: `noopy`,
+  title: `noopy.dev`,
   description: `Blog posted about ...`,
   author: `snoop2head`,
   introduction: `📝 Learn enough to build an idea`,
