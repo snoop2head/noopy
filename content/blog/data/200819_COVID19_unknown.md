@@ -1,6 +1,6 @@
 ---
 title: '코로나19 발병 180일째, 서울 확진자수 최대 달성'
-date: 2020-07-12 13:01:13
+date: 2020-08-19 20:01:13
 category: 'data'
 draft: false
 
@@ -9,7 +9,7 @@ draft: false
 
 ## 경로불명 감염자 통계 파악하기 - 서울의 코로나19
 
-https://colab.research.google.com/drive/1DfOnHOeFIOy4uvoWABL-rucPor9wOyJJ?usp=sharing
+[Google Colab으로 코드 돌려보기](https://colab.research.google.com/drive/1DfOnHOeFIOy4uvoWABL-rucPor9wOyJJ?usp=sharing)
 
 ![image-20200819201822834](./imgs/image-20200819201822834.png)
 
