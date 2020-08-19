@@ -1,6 +1,6 @@
 # noopy.dev
 
-[snoop2head writing about how to build things](https://noopy.dev/)
+snoop2head writing about how to build things
 
 ## Guide for Installation
 
