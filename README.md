@@ -19,7 +19,7 @@ npm start
 * [gatsby-meta-config.js](./gatsby-meta-config.js): blog meta data such as title, keywords etc.
 * [contents](./contents)
   * [__about](./contents/about): writing about portfolio
-  * [assets](./contents/assets): profile image and felog image above it
+  * [assets](./contents/assets): profile image and profile image above it
   * [blog](./contents/blog): blog writings in Markdown file format
 
 ## Moving Images After Writing
