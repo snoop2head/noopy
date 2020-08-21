@@ -1,7 +1,7 @@
 ---
 title: 'conda는 이제 그만 쓸래요 - pyenv & poetry'
 date: 2020-07-12 13:01:13
-category: 'development'
+category: 'data'
 draft: false
 
 

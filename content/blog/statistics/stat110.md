@@ -1,7 +1,7 @@
 ---
 title: 'Studying Probability with Harvard Stat110 Course'
 date: 2020-08-19 13:01:13
-category: 'statistic'
+category: 'statistics'
 draft: false
 ---
 
