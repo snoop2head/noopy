@@ -3,8 +3,6 @@ title: 'ML & DL Study Materials'
 date: 2020-08-25 13:01:13
 category: 'statistics'
 draft: false
-
-
 ---
 
 ## Jupyter Notebooks on Github
